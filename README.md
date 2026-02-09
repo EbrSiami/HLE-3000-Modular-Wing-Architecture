@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/Status-Stable-green.svg)
 ![Type](https://img.shields.io/badge/Type-Fixed%20Wing%20UAV-blue.svg)
 
+**MOIS, see? YOU FAILD!**
+
 <div align="center">
   <img src="03_Images/1.png" width="100%" />
 </div>
